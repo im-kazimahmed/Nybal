@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1008102589541",
+    "project_id": "halal-nikah-2022",
+    "storage_bucket": "halal-nikah-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008102589541:android:22cdc616717669c2a9f28c",
+        "android_client_info": {
+          "package_name": "com.example.nybal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008102589541-68hlsfi2b8ftdg3ppor2heanf8djtkat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nybal",
+            "certificate_hash": "34dd67f60c574cee21b82871e7f092ffd2e20f2a"
+          }
+        },
+        {
+          "client_id": "1008102589541-shrgcpuq0njl2pumt0f99hkvij71v99j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8EUTCTUYWMlRbZKbOh0FU-xAFBLgm1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008102589541-c746a4b5dli5trdf6lgsmlj5t901idc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008102589541-ch9f8jkd6linulbbrkshbp64vl0bk2vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nybal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008102589541:android:73cc24f60a01d379a9f28c",
+        "android_client_info": {
+          "package_name": "com.gdh.halal_nikkah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008102589541-g2vle5ii6fskc63hr4bb0b1gsf775hul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdh.halal_nikkah",
+            "certificate_hash": "ef9175fbe24e2f535c7c97b9bf0328522d73750f"
+          }
+        },
+        {
+          "client_id": "1008102589541-shrgcpuq0njl2pumt0f99hkvij71v99j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8EUTCTUYWMlRbZKbOh0FU-xAFBLgm1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008102589541-c746a4b5dli5trdf6lgsmlj5t901idc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008102589541-ch9f8jkd6linulbbrkshbp64vl0bk2vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nybal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

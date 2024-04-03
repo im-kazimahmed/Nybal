@@ -1,0 +1,2 @@
+[2024-02-14 04:25:41.294] [14804] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2024-02-14 04:25:41.295] [14804] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\process\iris_process_win.cc:115 agora::iris::IrisProcess::GetCurrentModuleFileName path E:\GMG\islamc-date\build\windows\runner\Debug\AgoraRtcWrapper.dll
